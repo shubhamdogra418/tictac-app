@@ -31,5 +31,8 @@
   cursor: pointer;
 }
 .playAgain:hover {
-  background-color: blue;
+  background-color: yellowgreen;
+}
+.turn {
+  color: yellowgreen;
 }
